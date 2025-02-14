@@ -40,7 +40,6 @@
     width="49%"
     style="margin: 0 10px;"
   />
-</p>
 
   <img
     src="https://streak-stats.demolab.com?user=mjtampus&theme=gotham&hide_border=true"
