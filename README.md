@@ -74,7 +74,7 @@ const michael = {
 
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=mjtampus)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=mjtampus&title=Commits,PullRequest,Repositories,NewUser,LongTimeUser,MultiLanguage)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
