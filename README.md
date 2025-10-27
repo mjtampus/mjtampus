@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Michael Tampus
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=268F77&size=24&width=500&lines=Web+Developer;++++Nice+to+meet+you...)
+<img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=268F77&size=24&width=500&lines=Web+Developer;Nice+to+meet+you...&center=true&vCenter=true" alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=mjtampus&color=268F77)
 
@@ -49,9 +49,11 @@ const michael = {
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjtampus&rank_icon=github&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjtampus&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=mjtampus&theme=gotham&hide_border=true&background=0D1117" alt="GitHub Streaks"/>
+    
 </div>
 
 <br/>
