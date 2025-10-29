@@ -88,7 +88,11 @@ const michael = {
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjtampus)
+[![FaceBook](https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GXJJPGiqN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/mchael-john-b-tampus-1829a82b9/)
+
+
 
 **✨ Open to collaborations and exciting projects ✨**
 
