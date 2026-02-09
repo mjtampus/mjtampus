@@ -51,7 +51,9 @@ const michael = {
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjtampus&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<img height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=mjtampus&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
+  alt="GitHub Stats"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=mjtampus&theme=gotham&hide_border=true&background=0D1117" alt="GitHub Streaks"/>
     
 </div>
