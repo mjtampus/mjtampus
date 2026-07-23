@@ -63,10 +63,12 @@ technologies — combining technical precision with a focus on user experience.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mjtampus&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=DFE2EB&border_color=30363D" alt="GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtampus&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=DFE2EB&border_color=30363D&langs_count=6" alt="Top Languages"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mjtampus&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=DFE2EB&border_color=30363D" alt="GitHub Stats"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mjtampus&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=DFE2EB&border_color=30363D&langs_count=6" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=mjtampus&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=DFE2EB&currStreakNum=DFE2EB&sideNums=DFE2EB&dates=8B949E" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjtampus&hide_border=true&bg_color=0D1117&color=10B981&line=10B981&point=DFE2EB&area=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
