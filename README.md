@@ -68,7 +68,6 @@ technologies — combining technical precision with a focus on user experience.
 
 <img src="https://streak-stats.demolab.com?user=mjtampus&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=DFE2EB&currStreakNum=DFE2EB&sideNums=DFE2EB&dates=8B949E" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjtampus&hide_border=true&bg_color=0D1117&color=10B981&line=10B981&point=DFE2EB&area=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
@@ -88,6 +87,11 @@ technologies — combining technical precision with a focus on user experience.
 > — Cory House
 
 <br/>
+
+## 📊 Recent Activities
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjtampus&hide_border=true&bg_color=0D1117&color=10B981&line=10B981&point=DFE2EB&area=true" alt="Activity Graph" width="95%"/>
+</div>
 
 <div align="center">
 
