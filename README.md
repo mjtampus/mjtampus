@@ -40,19 +40,19 @@ technologies — combining technical precision with a focus on user experience.
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-7BD0FF?style=flat-square&logo=react&logoColor=161B22&labelColor=161B22)
-![Vue.js](https://img.shields.io/badge/Vue.js-7BD0FF?style=flat-square&logo=vuedotjs&logoColor=161B22&labelColor=161B22)
-![JavaScript](https://img.shields.io/badge/JavaScript-7BD0FF?style=flat-square&logo=javascript&logoColor=161B22&labelColor=161B22)
-![HTML5](https://img.shields.io/badge/HTML5%2FCSS3-7BD0FF?style=flat-square&logo=html5&logoColor=161B22&labelColor=161B22)
+![React](https://img.shields.io/badge/React-7BD0FF?style=flat-square&logo=react&logoColor=white&labelColor=161B22)
+![Vue.js](https://img.shields.io/badge/Vue.js-7BD0FF?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=161B22)
+![JavaScript](https://img.shields.io/badge/JavaScript.js-7BD0FF?style=flat-square&logo=javascript&logoColor=white&labelColor=161B22)
+![HTML5](https://img.shields.io/badge/HTML5%2FCSS3-7BD0FF?style=flat-square&logo=html5&logoColor=white&labelColor=161B22)
 
 </td><td width="33%" valign="top">
 
 **Backend**
 
-![MySQL](https://img.shields.io/badge/MySQL-FFB4A7?style=flat-square&logo=mysql&logoColor=161B22&labelColor=161B22)
-![Supabase](https://img.shields.io/badge/Supabase-FFB4A7?style=flat-square&logo=supabase&logoColor=161B22&labelColor=161B22)
-![REST](https://img.shields.io/badge/REST_APIs-FFB4A7?style=flat-square&logo=fastapi&logoColor=161B22&labelColor=161B22)
-![JWT](https://img.shields.io/badge/JWT_Auth-FFB4A7?style=flat-square&logo=jsonwebtokens&logoColor=161B22&labelColor=161B22)
+![MySQL](https://img.shields.io/badge/MySQL-FFB4A7?style=flat-square&logo=mysql&logoColor=white&labelColor=161B22)
+![Supabase](https://img.shields.io/badge/Supabase-FFB4A7?style=flat-square&logo=supabase&logoColor=white&labelColor=161B22)
+![REST](https://img.shields.io/badge/REST_APIs-FFB4A7?style=flat-square&logo=fastapi&logoColor=white&labelColor=161B22)
+![JWT](https://img.shields.io/badge/JWT_Auth-FFB4A7?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=161B22)
 
 </td></tr>
 </table>
