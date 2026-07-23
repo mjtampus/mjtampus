@@ -81,17 +81,18 @@ technologies — combining technical precision with a focus on user experience.
 
 </div>
 
+
+## 📊 Recent Activities
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjtampus&hide_border=true&bg_color=0D1117&color=10B981&line=10B981&point=DFE2EB&area=true" alt="Activity Graph" width="95%"/>
+</div>
+
 <br/>
 
 > *"Code is like humor. When you have to explain it, it's bad."*
 > — Cory House
 
 <br/>
-
-## 📊 Recent Activities
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjtampus&hide_border=true&bg_color=0D1117&color=10B981&line=10B981&point=DFE2EB&area=true" alt="Activity Graph" width="95%"/>
-</div>
 
 <div align="center">
 
