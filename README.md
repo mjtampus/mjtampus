@@ -78,7 +78,7 @@ technologies — combining technical precision with a focus on user experience.
 
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=mjtampus&theme=dracula&no-bg=true&no-frame=true&margin-w=8&title=Commits,PullRequest,Repositories,NewUser,LongTimeUser,MultiLanguage)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=mjtampus&theme=flat&no-bg=true&no-frame=true&margin-w=8&title=Commits,PullRequest,Repositories,NewUser,LongTimeUser,MultiLanguage)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
